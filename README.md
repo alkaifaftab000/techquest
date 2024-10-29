@@ -9,22 +9,13 @@
 - **Card, Shades, ListView, GridView**: Efficiently organized content presentation.
 - **Circular Avatar & Animated Containers**: Enhanced visual appeal and interactivity.
 
-
-## Plugins Used
-- loading_animation_widget: ^1.3.0
-- http: ^1.2.2
-- shimmer: ^3.0.0
-- motion_tab_bar: ^2.0.4
-- url_launcher: ^6.3.1
-- cached_network_image: ^3.4.1
-- carousel_slider: ^5.0.0
-- google_fonts: ^6.2.1
-
-
 ## What You Can Learn
 - **Clean Code Practices**: Learn how to structure your code for better readability and maintainability.
 - **Modern UI Design**: Understand how to create visually appealing interfaces that enhance user experience.
 - **REST API Handling:** Discover how to interact with APIs to fetch and display data dynamically.
+
+## Try Our App 
+
 
 ## Splash Screen   
 ![{0ED5D5FF-3522-4857-AE30-71336D3FC000}](https://github.com/user-attachments/assets/d37c9284-ecf2-4a7b-9514-fde934c5630c)  
@@ -49,6 +40,16 @@
 
 ## Profile 
 ![{5077A088-EC87-4A85-8623-37C7267440CA}](https://github.com/user-attachments/assets/5e2964eb-a547-4538-ae72-b4320341c060)
+
+## Plugins Used
+- loading_animation_widget: ^1.3.0
+- http: ^1.2.2
+- shimmer: ^3.0.0
+- motion_tab_bar: ^2.0.4
+- url_launcher: ^6.3.1
+- cached_network_image: ^3.4.1
+- carousel_slider: ^5.0.0
+- google_fonts: ^6.2.1
 
 
 
