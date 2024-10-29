@@ -1,0 +1,36 @@
+class AppImages {
+  static List<List<String>> carouselImages = [
+    [
+      'https://kubernetes.io/docs/home/',
+      'https://i.ytimg.com/vi/iZZSpKktqps/maxresdefault.jpg',
+    ],
+    [
+      'https://docs.docker.com/',
+      'https://1.bp.blogspot.com/-K1sldf8tbVY/XY5PCeuQBcI/AAAAAAAAJ0s/S9gwdc1tl6AVZ_hLTRfX4jUKBigtz5NSwCLcBGAsYHQ/w1200-h630-p-k-no-nu/docker_Concepts.JPG',
+    ],
+    [
+      'https://www.geeksforgeeks.org/linux-tutorial/',
+      'https://cdn.wallpapersafari.com/64/69/tGwYhP.jpg',
+    ],
+    [
+      'https://www.javatpoint.com/bash',
+      'https://www.delftstack.com/img/Linux/feature%20image%20-%20bash%20pip%20command%20not%20found.png',
+    ],
+    [
+      'https://www.w3schools.com/sql/',
+      'https://thumbs.dreamstime.com/b/sql-line-art-concept-vector-structured-query-language-round-banner-web-resources-programming-77290669.jpg',
+    ],
+    [
+      'https://www.javatpoint.com/devops',
+      'https://shalb.com/wp-content/uploads/2019/11/Devops1.jpeg',
+    ],
+    [
+      'https://www.coderscampus.com/basic-programming-concepts/',
+      'https://assets-global.website-files.com/5e5e8f604174b0c09d6a05e0/614c7979f8ca479c25a985fb_MQaoUn0hZyCB9SSHBwS7Ytpq6Rydg94tWbxP-4QmdLSULtyi4dCZ1LFv45O_QMSvR_plRXLgpZIKLV9aTOYntzk52eRro2-v26jA0RuVx8Mxocng4rjohDc4kFuqAKVeZQKdrR4=s0.png',
+    ],
+    [
+      'https://www.ibm.com/topics/content-management-system',
+      'https://static.vecteezy.com/system/resources/previews/024/384/470/original/cms-concept-stages-of-publishing-content-using-cms-chart-with-keywords-and-icons-website-management-software-for-publishing-content-edit-seo-optimization-setting-support-infographics-vector.jpg',
+    ],
+  ];
+}
